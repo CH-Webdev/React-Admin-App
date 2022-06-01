@@ -8,7 +8,7 @@ import { Ecommerce, Orders, Calender, Employees, Stacked, Pyramid, Customers, Ka
 import './App.css'
 
 const App = () => {
-    const activeMenu = false;
+    const activeMenu = true;
   return (
         <div>
             <BrowserRouter>
@@ -25,7 +25,7 @@ const App = () => {
                             <Sidebar />
                         </div>
                     ) : (
-                        <div classNmae="w-0 dark:bg-secondary-dark-bg">
+                        <div className="w-0 dark:bg-secondary-dark-bg">
                             <Sidebar /> 
                         </div>
                     )}
