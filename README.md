@@ -10,4 +10,4 @@ A fully responsive modern admin panel application that features:
 
 4. Applications including a fully functional Calendar, a Kanban app to manage work flow, a text editor, and a color picker which provides a hexadecimal color value and an rgba value.
 
-5. Lastly, 8 different, interactive graph chats of data.
+5. 8 different, interactive graph charts of data.
