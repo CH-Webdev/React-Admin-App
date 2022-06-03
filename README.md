@@ -12,4 +12,4 @@ A fully responsive modern admin panel application that features:
 
 5. 8 different, interactive graph charts of data.
 
-Try changing the theme and toggling dark/light mode for a different experience by hitting the settings button in the lower right corner of the screen!
+Try changing the theme and toggling dark/light mode for a different experience by hitting the settings button in the lower right corner of the screen.
